@@ -1,2 +1,2 @@
 # Alura-Cadastro
-Curso de JavaScript utilizando API de CEP, realizado na Alura
+Curso de JavaScript utilizando API de CEP, realizado na Alura.
